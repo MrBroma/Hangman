@@ -1,6 +1,8 @@
 # Hangman Game Project
 
-![Hangman Game Demo](pictures/icons8-hangman-game-64_upscayl_5x_realesrgan-x4plus-anime.png)
+<div align="center">
+	<img width = "60%" src="pictures/icons8-hangman-game-64_upscayl_5x_realesrgan-x4plus-anime.png">
+</div>
 
 ## Introduction
 
