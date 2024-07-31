@@ -16,7 +16,7 @@ The `Hangman` class encapsulates the functionality and state of the Hangman game
 
 - `word_to_find`: The word that the player needs to guess, represented as a list of characters. It is chosen randomly from `possible_words`.
 
-- `lives`: The number of incorrect guesses the player can make. The game starts with 5 lives.
+- `lives`: The number of incorrect guesses the player can make. The game starts with 6 lives.
 
 - `correctly_guessed_letters`: A list that shows the current state of guessed letters. Initially, all letters are represented by underscores (`_`), indicating that they are not yet guessed.
 
